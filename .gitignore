@@ -1,0 +1,8 @@
+#############
+## Eagle
+#############
+
+# Ignore the board and schematic backup files
+*.b#?
+*.s#?
+eagle.epf
