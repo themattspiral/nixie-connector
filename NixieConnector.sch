@@ -5125,6 +5125,18 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,20.1888,23.0971,JP10,,,,,"/>
+<approved hash="113,1,31.7077,99.1912,JP1,,,,,"/>
+<approved hash="113,1,31.7077,129.671,JP2,,,,,"/>
+<approved hash="113,1,79.9677,99.1912,JP3,,,,,"/>
+<approved hash="113,1,79.9677,129.671,JP4,,,,,"/>
+<approved hash="113,1,128.228,99.1912,JP5,,,,,"/>
+<approved hash="113,1,128.228,129.671,JP6,,,,,"/>
+<approved hash="113,1,176.488,99.1912,JP7,,,,,"/>
+<approved hash="113,1,176.488,129.671,JP8,,,,,"/>
+<approved hash="113,1,245.068,142.371,JP9,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
